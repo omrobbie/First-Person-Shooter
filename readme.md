@@ -17,3 +17,6 @@ Berikut ini beberapa ID Device yang dapat ditambahkan supaya nantinya game Anda 
 * 2.0#rec1rkdIgNAXjNHbe7JOK67/TA0=
 * 2.0#GOl4YrUSlp+NDpaFf2zE22r8NIA=
 * 2.0#wCgOA1R6yqfaI6C8xAWUCs7hoiw=
+
+### Catatan
+* Membuat rumput harus dari dekat agar mudah terlihat.
