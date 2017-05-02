@@ -128,12 +128,12 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         private void Update()
         {
-            RotateView();
+            //RotateView();
 
-            if (CrossPlatformInputManager.GetButtonDown("Jump") && !m_Jump)
-            {
-                m_Jump = true;
-            }
+            //if (CrossPlatformInputManager.GetButtonDown("Jump") && !m_Jump)
+            //{
+            //    m_Jump = true;
+            //}
         }
 
 
@@ -149,6 +149,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
                 desiredMove = Vector3.ProjectOnPlane(desiredMove, m_GroundContactNormal).normalized;
 
                 desiredMove.x = desiredMove.x*movementSettings.CurrentTargetSpeed;
+                transform.Rotate(0, input.x, 0);
+
                 desiredMove.z = desiredMove.z*movementSettings.CurrentTargetSpeed;
                 desiredMove.y = desiredMove.y*movementSettings.CurrentTargetSpeed;
                 if (m_RigidBody.velocity.sqrMagnitude <
