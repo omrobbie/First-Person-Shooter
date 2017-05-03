@@ -10,6 +10,7 @@ Acara ini merupakan bagian dari [BEKRAF Developer Day 2017 - Bali](https://www.d
 * [Unity Personal](https://store.unity.com/download?ref=personal "Download Unity Personal")
 * [Tizen Studio](https://developer.tizen.org/development/tizen-studio/download "Download Tizen Studio")
 * Jika menggunakan device Tizen, download driver [Samsung Android USB Driver for Windows](http://developer.samsung.com/galaxy/others/android-usb-driver-for-windows "Download driver Samsung")
+* [Asset Monster (sudah di download)](https://gifdicoding.blob.core.windows.net/academytizenunity/monster.FBX "Download Asset Monster")
 
 ### Tizen Certificate
 Berikut ini beberapa ID Device yang dapat ditambahkan supaya nantinya game Anda dapat direview oleh tim Dicoding:
